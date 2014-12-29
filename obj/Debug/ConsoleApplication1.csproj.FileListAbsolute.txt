@@ -1,0 +1,12 @@
+D:\Task\Samples C#\TETS\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+D:\Task\Samples C#\TETS\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+D:\Task\Samples C#\TETS\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+D:\Task\Samples C#\TETS\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+D:\Task\Samples C#\TETS\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb
+D:\Task\Samples C#\TETS\ConsoleApplication1\obj\Debug\ConsoleApplication1.csprojResolveAssemblyReference.cache
+d:\Dmitry\UpToDate\TETS\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+d:\Dmitry\UpToDate\TETS\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+d:\Dmitry\UpToDate\TETS\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb
+d:\Dmitry\UpToDate\TETS\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+d:\Dmitry\UpToDate\TETS\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+d:\Dmitry\UpToDate\TETS\ConsoleApplication1\obj\Debug\ConsoleApplication1.csprojResolveAssemblyReference.cache
